@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f8c74e6-9988-41de-aaaf-dc8f7cc5804e" name="Changes" comment="update 3">
-      <change afterPath="$PROJECT_DIR$/tasks.xlsx" afterDir="false" />
+    <list default="true" id="1f8c74e6-9988-41de-aaaf-dc8f7cc5804e" name="Changes" comment="update 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716954374233</updated>
-      <workItem from="1716954380335" duration="5745000" />
+      <workItem from="1716954380335" duration="6633000" />
     </task>
     <task id="LOCAL-00001" summary="update 1">
       <option name="closed" value="true" />
@@ -91,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716957005645</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update 4">
+      <option name="closed" value="true" />
+      <created>1716998376577</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716998376577</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,7 +109,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -113,9 +126,10 @@
     <MESSAGE value="update 2" />
     <MESSAGE value="update 1" />
     <MESSAGE value="update 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 3" />
+    <MESSAGE value="update 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 4" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/todo_list$todo_list.coverage" NAME="todo_list Coverage Results" MODIFIED="1716997830205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/todo_list$todo_list.coverage" NAME="todo_list Coverage Results" MODIFIED="1716998773048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
   </component>
 </project>
